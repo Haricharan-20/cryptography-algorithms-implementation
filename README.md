@@ -41,7 +41,6 @@ File: `sha256_hash.py`
 - Python 3
 - Cryptography Python library
 - hashlib
-- Termux on Android
 - Git and GitHub
 
 ## Project Structure
